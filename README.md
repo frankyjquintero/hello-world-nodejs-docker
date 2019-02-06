@@ -1,5 +1,5 @@
 # Hello-World Nodejs con docker
-Dockerizing a Node.js web app
+Dockerizando un Node.js web app - Hola Mundo
 
 # Especificaciones DockerFile
 * NodeJs version 8 - Alpine (version ligera solo pruebas)
