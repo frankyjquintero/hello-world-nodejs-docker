@@ -6,7 +6,6 @@ Dockerizando un Node.js web app - Hola Mundo
 * NodeJs version 8 - Alpine (version ligera solo pruebas)
 
 
-
 ## Para construir la imagen de Docker
 
     $ docker build -t frankyjquintero/node-web-app .
